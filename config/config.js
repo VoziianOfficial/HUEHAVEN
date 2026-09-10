@@ -1,5 +1,4 @@
-/* Edit this single JSON-compatible object. Keep double quotes and no trailing commas.
-   contact.php reads the same file; there is no second site.json configuration. */
+
 window.SITE_CONFIG = {
   "companyName": "HUEHAVEN",
   "legalName": "{companyName}",
