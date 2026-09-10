@@ -1,0 +1,173 @@
+[
+  {
+    "name": "interior-room",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium painting company website photography. Create a single exceptionally realistic wide landscape photograph at 2048x1152 or maximum available landscape resolution. Natural materials, subtle authentic textures, natural light, premium editorial architectural photography. No lettering, logos, watermark, collage, UI, or rendering look. Scene: architecturally refined bright living room with matte deep turquoise painted feature wall, white adjacent wall, sculptural burnt-orange armchair, oak flooring, clean composition and a few realistic lived-in details. Wide interior photograph. No people.",
+    "file": "assets/images/interior-room-hq.avif",
+    "dimensions": [
+      1672,
+      941
+    ]
+  },
+  {
+    "name": "interior-work",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium painting company website photography. Create a single exceptionally realistic wide landscape photograph at 2048x1152 or maximum available landscape resolution. Natural materials, subtle authentic textures, natural light, premium editorial architectural photography. No lettering, logos, watermark, collage, UI, or rendering look. Scene: professional painter viewed from the side and back rolling a beautiful ochre wall indoors, white protective drop cloths, soft natural light, real craftsmanship. Painter's face turned away, anatomically realistic hands holding the roller handle, believable work posture. Wide interior work photograph; no posed face.",
+    "file": "assets/images/interior-work-hq.avif",
+    "dimensions": [
+      1672,
+      941
+    ]
+  },
+  {
+    "name": "exterior-house",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium painting company website photography. Create a single exceptionally realistic wide landscape photograph at 2048x1152 or maximum available landscape resolution. Natural materials, subtle authentic textures, natural light, premium editorial architectural photography. No lettering, logos, watermark, collage, UI, or rendering look. Scene: elegant detached house with freshly painted ivory render, a blue-green front door and warm terracotta trim in a lush but refined garden. Daytime architectural photograph, wide composition showing the whole attractive facade. No people.",
+    "file": "assets/images/exterior-house-hq.avif",
+    "dimensions": [
+      1672,
+      941
+    ]
+  },
+  {
+    "name": "home-1",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium residential painting website hero photograph. Primary request: a turquoise coastal cottage with a coral front door, crisp white trim and a welcoming porch. Create ONE distinct beautiful professionally photographed real house, with fresh sophisticated vibrant facade paint. Landscape 16:9 composition, full house positioned in the right two thirds, landscaped garden and calm usable space on left for website text overlay. High detail sunny architectural editorial photography, real textured paint and materials, natural summer sky, inviting meticulous landscaping, wide lens with straight verticals. Rich vivid but believable color, premium design magazine quality. No people, text, logos, watermark, collage, labels, graphic overlays or computer rendering.",
+    "file": "assets/images/home-1.avif",
+    "dimensions": [
+      1672,
+      941
+    ]
+  },
+  {
+    "name": "home-2",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium residential painting website hero photograph. Primary request: a saffron yellow modern Mediterranean villa with arched openings and warm natural stone. Create ONE distinct beautiful professionally photographed real house, with fresh sophisticated vibrant facade paint. Landscape 16:9 composition, full house positioned in the right two thirds, landscaped garden and calm usable space on left for website text overlay. High detail sunny architectural editorial photography, real textured paint and materials, natural summer sky, inviting meticulous landscaping, wide lens with straight verticals. Rich vivid but believable color, premium design magazine quality. No people, text, logos, watermark, collage, labels, graphic overlays or computer rendering.",
+    "file": "assets/images/home-2.avif",
+    "dimensions": [
+      1672,
+      941
+    ]
+  },
+  {
+    "name": "home-3",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium residential painting website hero photograph. Primary request: a coral pink Victorian porch house with elegant white decorative trim. Create ONE distinct beautiful professionally photographed real house, with fresh sophisticated vibrant facade paint. Landscape 16:9 composition, full house positioned in the right two thirds, landscaped garden and calm usable space on left for website text overlay. High detail sunny architectural editorial photography, real textured paint and materials, natural summer sky, inviting meticulous landscaping, wide lens with straight verticals. Rich vivid but believable color, premium design magazine quality. No people, text, logos, watermark, collage, labels, graphic overlays or computer rendering.",
+    "file": "assets/images/home-3.avif",
+    "dimensions": [
+      1672,
+      941
+    ]
+  },
+  {
+    "name": "interior-1",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium residential painting website hero photograph. Primary request: a cobalt blue modern townhouse with clean architectural volumes and large windows. Create ONE distinct beautiful professionally photographed real house, with fresh sophisticated vibrant facade paint. Landscape 16:9 composition, full house positioned in the right two thirds, landscaped garden and calm usable space on left for website text overlay. High detail sunny architectural editorial photography, real textured paint and materials, natural summer sky, inviting meticulous landscaping, wide lens with straight verticals. Rich vivid but believable color, premium design magazine quality. No people, text, logos, watermark, collage, labels, graphic overlays or computer rendering.",
+    "file": "assets/images/interior-1.avif",
+    "dimensions": [
+      1672,
+      941
+    ]
+  },
+  {
+    "name": "interior-2",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium residential painting website hero photograph. Primary request: a terracotta courtyard villa with arches and a beautifully planted entrance. Create ONE distinct beautiful professionally photographed real house, with fresh sophisticated vibrant facade paint. Landscape 16:9 composition, full house positioned in the right two thirds, landscaped garden and calm usable space on left for website text overlay. High detail sunny architectural editorial photography, real textured paint and materials, natural summer sky, inviting meticulous landscaping, wide lens with straight verticals. Rich vivid but believable color, premium design magazine quality. No people, text, logos, watermark, collage, labels, graphic overlays or computer rendering.",
+    "file": "assets/images/interior-2.avif",
+    "dimensions": [
+      1672,
+      941
+    ]
+  },
+  {
+    "name": "interior-3",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium residential painting website hero photograph. Primary request: a mint green midcentury bungalow with low sweeping roof and refined timber accents. Create ONE distinct beautiful professionally photographed real house, with fresh sophisticated vibrant facade paint. Landscape 16:9 composition, full house positioned in the right two thirds, landscaped garden and calm usable space on left for website text overlay. High detail sunny architectural editorial photography, real textured paint and materials, natural summer sky, inviting meticulous landscaping, wide lens with straight verticals. Rich vivid but believable color, premium design magazine quality. No people, text, logos, watermark, collage, labels, graphic overlays or computer rendering.",
+    "file": "assets/images/interior-3.avif",
+    "dimensions": [
+      1672,
+      941
+    ]
+  },
+  {
+    "name": "exterior-1",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium residential painting website hero photograph. Primary request: a vivid magenta Caribbean villa with white shutters and tropical landscaping. Create ONE distinct beautiful professionally photographed real house, with fresh sophisticated vibrant facade paint. Landscape 16:9 composition, full house positioned in the right two thirds, landscaped garden and calm usable space on left for website text overlay. High detail sunny architectural editorial photography, real textured paint and materials, natural summer sky, inviting meticulous landscaping, wide lens with straight verticals. Rich vivid but believable color, premium design magazine quality. No people, text, logos, watermark, collage, labels, graphic overlays or computer rendering.",
+    "file": "assets/images/exterior-1.avif",
+    "dimensions": [
+      1672,
+      941
+    ]
+  },
+  {
+    "name": "exterior-2",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium residential painting website hero photograph. Primary request: a deep teal Craftsman house with a rich yellow front door and white trim. Create ONE distinct beautiful professionally photographed real house, with fresh sophisticated vibrant facade paint. Landscape 16:9 composition, full house positioned in the right two thirds, landscaped garden and calm usable space on left for website text overlay. High detail sunny architectural editorial photography, real textured paint and materials, natural summer sky, inviting meticulous landscaping, wide lens with straight verticals. Rich vivid but believable color, premium design magazine quality. No people, text, logos, watermark, collage, labels, graphic overlays or computer rendering.",
+    "file": "assets/images/exterior-2.avif",
+    "dimensions": [
+      1672,
+      941
+    ]
+  },
+  {
+    "name": "exterior-3",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium residential painting website hero photograph. Primary request: a warm orange contemporary house with geometric volumes and modern garden. Create ONE distinct beautiful professionally photographed real house, with fresh sophisticated vibrant facade paint. Landscape 16:9 composition, full house positioned in the right two thirds, landscaped garden and calm usable space on left for website text overlay. High detail sunny architectural editorial photography, real textured paint and materials, natural summer sky, inviting meticulous landscaping, wide lens with straight verticals. Rich vivid but believable color, premium design magazine quality. No people, text, logos, watermark, collage, labels, graphic overlays or computer rendering.",
+    "file": "assets/images/exterior-3.avif",
+    "dimensions": [
+      1672,
+      941
+    ]
+  },
+  {
+    "name": "home-1-before",
+    "prompt": "Use case: precise-object-edit. Edit target: attached turquoise coastal cottage photograph. Make a matched BEFORE painting photo for an interactive before/after slider. Change ONLY the turquoise facade shingle paint to dull weathered pale grey, with slight realistic faded uneven paint. Preserve the EXACT camera framing, perspective, geometry and dimensions; every window, door, porch railing, white trim, roof, plant, lawn, pathway, water, sky, clouds, shadows, lighting, color outside the facade, and all objects must remain identical and in exactly the same pixels. Keep the coral front door and all white trim unchanged. Do not crop, zoom, move, add or remove anything. Photorealistic, same landscape aspect ratio. No text.",
+    "file": "assets/images/home-1-before.avif",
+    "dimensions": [
+      1672,
+      941
+    ]
+  },
+  {
+    "name": "room-living",
+    "prompt": "A premium interior editorial photograph, wide 16:9 composition, of a bright beautifully painted living room with rich teal walls and warm coral architectural wall accents. Sophisticated comfortable furnishings, restrained contemporary styling, exquisite natural window light, authentic paint texture and lived-in warmth. No people, no text, no logos, no watermarks. Photorealistic photography, not illustration.",
+    "file": "assets/images/room-living.avif",
+    "dimensions": [
+      1672,
+      941
+    ]
+  },
+  {
+    "name": "room-bedroom",
+    "prompt": "A premium interior editorial photograph, wide 16:9 composition, of a sophisticated bedroom with saturated cobalt blue painted walls, golden ochre textiles and bedding, warm wood and tasteful contemporary details. Beautiful natural window light, rich paint color, believable real room proportions. No people, no text, no logos, no watermarks. Photorealistic photography, not illustration.",
+    "file": "assets/images/room-bedroom.avif",
+    "dimensions": [
+      1672,
+      941
+    ]
+  },
+  {
+    "name": "room-kitchen",
+    "prompt": "A premium interior editorial photograph, wide 16:9 composition, of a vibrant emerald green kitchen with sunny yellow painted wall accents, elegant wood details and restrained countertop styling. Rich paint finish, bright natural daylight, warm welcoming contemporary design. No people, no text, no logos, no watermarks. Photorealistic photography, not illustration.",
+    "file": "assets/images/room-kitchen.avif",
+    "dimensions": [
+      1672,
+      941
+    ]
+  },
+  {
+    "name": "team-colour",
+    "prompt": "A photorealistic editorial portrait for a fictional painting company's team page. Landscape 4:3, waist-up centered portrait of a friendly professional woman in her 30s with medium brown skin and dark curly hair, holding an open fan of plain paint color swatches. Smart casual cream blouse, bright tasteful orange and teal color studio background, softly blurred. Natural daylight, relaxed warm smile, authentic skin texture and anatomically realistic hands and face. No text on swatches or anywhere, no logos, no watermark. Single person.",
+    "file": "assets/images/team-colour.avif",
+    "dimensions": [
+      1448,
+      1086
+    ]
+  },
+  {
+    "name": "team-planning",
+    "prompt": "A photorealistic editorial portrait for a fictional painting company's team page. Landscape 4:3, waist-up centered portrait of a friendly professional man in his early 40s with fair skin, short brown hair and subtle stubble, holding a closed plain notebook. Smart casual navy overshirt over white tee, tasteful sunny yellow and teal studio background, softly blurred. Natural daylight, relaxed warm smile, authentic skin texture and anatomically realistic hands and face. No text, no logos, no watermark. Single person.",
+    "file": "assets/images/team-planning.avif",
+    "dimensions": [
+      1448,
+      1086
+    ]
+  },
+  {
+    "name": "team-support",
+    "prompt": "A photorealistic editorial portrait for a fictional painting company's team page. Landscape 4:3, waist-up centered portrait of a friendly professional East Asian woman in her late 20s with straight dark shoulder length hair, wearing a clean teal work apron over a white shirt, holding one plain paint brush. Tasteful warm orange and yellow studio background, softly blurred. Natural daylight, relaxed warm smile, authentic skin texture and anatomically realistic hands and face. No text, no logos, no watermark. Single person.",
+    "file": "assets/images/team-support.avif",
+    "dimensions": [
+      1448,
+      1086
+    ]
+  }
+]
